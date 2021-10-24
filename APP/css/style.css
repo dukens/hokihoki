@@ -1,0 +1,9 @@
+.player-card-header {
+    padding-left: 0 !important;
+    padding-top:  0 !important;
+    padding-bottom:  0 !important;
+}
+
+.triangle {
+    background: violet;
+}
